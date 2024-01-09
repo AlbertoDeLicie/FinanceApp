@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">financeapp</string>
+
+    <string name="title_money">Money</string>
+    <string name="title_addpayment">Add Payment</string>
+    <string name="title_profile">Profile</string>
+</resources>
